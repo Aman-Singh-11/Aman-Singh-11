@@ -17,20 +17,47 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
-const aman: Developer = {
-  title: "B.Tech CSE Student",
-  institute: "GL Bajaj Institute of Technology and Management (GLBITM'29)",
+```javascript
+const aman = {
+  role: "B.Tech CSE Student",
+  university: "GL Bajaj Institute of Technology and Management",
+  graduationYear: "2029",
   location: "Pratapgarh, Uttar Pradesh, India",
-  stack: ["C"],
-  launchedProjects: [
+
+  currentlyLearning: [
+    "C Programming",
+    "C++",
+    "Data Structures & Algorithms",
+    "Git & GitHub"
+  ],
+
+  skills: [
+    "C",
+    "C++",
+    "Problem Solving",
+    "Git",
+    "GitHub"
+  ],
+
+  projects: [
     "Summer_Assignment_25110cn222",
     "C-Programs-"
   ],
-  certifications: [],
-  status: "Learning C, C++ & DSA — passionate about coding",
-  openTo: ["Internships", "Entry-level roles", "Collaborations"]
+
+  goals: [
+    "Master DSA",
+    "Build Projects",
+    "Prepare for Placements"
+  ],
+
+  openTo: [
+    "Internships",
+    "Collaborations",
+    "Learning Opportunities"
+  ]
 };
+```
+
 ```
 
 <br/>
