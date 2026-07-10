@@ -1,88 +1,35 @@
-<h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h1 align="center">Aman Singh</h1>
+<h3 align="center">🚀 Aspiring Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=C+Developer;C%2B%2B+Learner;DSA+Enthusiast;Building+Skills+One+Commit+At+A+Time" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Aman-Singh-11">
-    <img src="https://komarev.com/ghpvc/?username=Aman-Singh-11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Aman-Singh-11&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Who I Am
+## 👨‍💻 Who Am I?
 
 ```cpp
 class AmanSingh {
 public:
     string role = "Aspiring Software Engineer";
-    string college = "GL Bajaj Institute of Technology and Management";
-    string batch = "GLBITM'29";
-    string location = "Pratapgarh, Uttar Pradesh, India";
+    string college = "GLBITM'29";
+    string location = "Pratapgarh, India";
 
-    vector<string> currentlyLearning = {
-        "C Programming",
+    vector<string> learning = {
+        "C",
         "C++",
-        "Data Structures & Algorithms",
-        "Git & GitHub"
+        "DSA",
+        "Git",
+        "GitHub"
     };
 
-    vector<string> interests = {
-        "Problem Solving",
-        "Software Development",
-        "Technology"
-    };
-
-    vector<string> goals = {
-        "Master DSA",
-        "Build Projects",
-        "Prepare for Placements",
-        "Become a Software Engineer"
-    };
+    string motto =
+        "Learn -> Build -> Improve -> Repeat";
 };
-```
-
-## 🚀 Featured Projects
-
-- 📌 **Summer_Assignment_25110cn222**
-- 📌 **C-Programs-**
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
-</p>
-
-## 🌱 Currently Learning
-
-- C Programming
-- C++
-- Data Structures & Algorithms
-- Git & GitHub
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/aman-singh-977164381">
-    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Singh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="https://github.com/Aman-Singh-11">
-    <img src="https://img.shields.io/badge/GitHub-Aman--Singh--11-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Singh-11&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Singh-11&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <i>"Building skills one commit at a time 🚀"</i>
-</p>
